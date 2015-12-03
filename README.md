@@ -10,3 +10,6 @@ This is a Makefile write for the stm32f1 family , it is used in my stm32 project
 
 # Resources
 
+- stm32flash : flash the stm32f1 chip .
+- GCC : gcc-arm-none-eabi-4.9.20
+- STM32F10x_StdPeriph_Driver
